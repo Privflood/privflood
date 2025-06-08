@@ -1,2 +1,3 @@
 # PRIVFLOOD SCRIPTS
-L7 flooder with strong Bypass abbilities :
+L7 flooder with strong Bypass abbilities 
+JA3 - TLS Ciphers - Headers - Headful - Cookies - Proxylist and ...
